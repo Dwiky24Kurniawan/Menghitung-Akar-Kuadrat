@@ -2,9 +2,9 @@
   "name": "menghitung-akar-kuadrat",
   "version": "1.0.0",
   "description": "rumus untuk menghitung akar kuadrat dari x dimana x adalah bilangan genap",
-  "main": "index.js",
+  "main": "AkarKuadrat.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node AkarKuadrat.js"
   },
   "repository": {
     "type": "git",
