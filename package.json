@@ -1,0 +1,22 @@
+{
+  "name": "menghitung-akar-kuadrat",
+  "version": "1.0.0",
+  "description": "rumus untuk menghitung akar kuadrat dari x dimana x adalah bilangan genap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwiky24Kurniawan/Menghitung-Akar-Kuadrat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dwiky24Kurniawan/Menghitung-Akar-Kuadrat/issues"
+  },
+  "homepage": "https://github.com/Dwiky24Kurniawan/Menghitung-Akar-Kuadrat#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
